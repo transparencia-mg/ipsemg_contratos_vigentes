@@ -4,6 +4,7 @@ Este conjunto de dados apresenta a relação atualizada dos prestadores de servi
 
 A atualização da base ocorre mensalmente.
 
+
 ## Como participar
 
 Fique a vontade para utilizar os demais canais oficiais de atendimento do Poder Executivo Estadual:
