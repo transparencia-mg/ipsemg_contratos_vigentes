@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 0.123,
+  "time": 0.121,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Relação atualizada dos prestadores de serviços de assistência à saúde credenciados pelo IPSEMG.",
         "dialect": {
           "delimiter": ";"
         },
