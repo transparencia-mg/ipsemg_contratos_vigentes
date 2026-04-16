@@ -2,8 +2,7 @@ name: contratos_vigentes
 owner_org: instituto-de-previdencia-dos-servidores-do-estado-de-minas-gerais-ipsemg
 profile: data-package
 resources:
-  - description: Relação atualizada dos prestadores de serviços de assistência à saúde credenciados pelo IPSEMG. 
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -55,4 +54,4 @@ resources:
           title:  Fim da Vigência
     scheme: file
     title: Contratos Vigentes
-title: Contratos vigentes
+title: Contratos Vigentes - IPSEMG
